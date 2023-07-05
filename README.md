@@ -33,6 +33,8 @@ Build a website to showcase the following:
 
 ## Homepage Visuals
 
+https://github.com/shaziasheikh01/My_Portfolio/assets/125430575/a95b9fe6-e4e8-4dd9-8e66-42d2dfb7c044
+
 ## Contact
 
 Feel free to reach out to me at [sheikhshazia1999@gmail.com] for any questions or collaboration opportunities.
