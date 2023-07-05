@@ -1,0 +1,9 @@
+1 - cdn js website for font awesome cdn
+2 - google fonts for fonts.
+3- typed js for tiping animation. cdnjs.com
+4 - for bulid a file download button.
+
+a) directly download <a href ="file path" download="file name.extension">
+b)open first <a href="file path">
+
+5- formspre for form send.
