@@ -31,9 +31,7 @@ Build a website to showcase the following:
 * CSS3
 * JavaScript
 
-## Homepage Visuals
 
-https://github.com/shaziasheikh01/My_Portfolio/assets/125430575/a95b9fe6-e4e8-4dd9-8e66-42d2dfb7c044
 
 ## Contact
 
